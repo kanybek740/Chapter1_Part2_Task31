@@ -1,0 +1,5 @@
+slova = input('napiwite predlojenie: ')
+kol_slov = slova.count(' ')
+kol_simvolov = slova.count()
+print(kol_slov + 1)
+print(kol_simvolov)
